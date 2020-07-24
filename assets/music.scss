@@ -1,0 +1,47 @@
+---
+---
+
+.note-white, .note-black {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  position: relative;
+  top: 0;
+  font-size: 1.5rem;
+}
+
+.note-white {
+  width: 1.7rem;
+  height: 4em;
+  border: 1px solid black;
+  border-radius: 0 0 0.2em 0.2em;
+  margin-right: -1px;
+  box-sizing: border-box;
+  line-height: 6.2em;
+  z-index: 0;
+}
+
+.note-black {
+  font-size: calc(1.5rem * 0.7);
+  width: calc(0.8em / 0.7);
+  height: calc(2.5em / 0.7);
+  background-color: black;
+  display: inline-block;
+  border-radius: 0 0 calc(0.1em / 0.7) calc(0.1em / 0.7);
+  margin-right: calc(-0.8em / 0.7 / 2);
+  margin-left: calc(-0.8em / 0.7 / 2);
+  color: white;
+  z-index: 10;
+  line-height: calc(3.5em/0.7);
+}
+
+.keyboard {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 0;
+    white-space: nowrap;
+}
+
+.page {
+  page-break-after: always;
+}
