@@ -2,9 +2,9 @@
 layout: home
 ---
 
-## simple-pages
+## Music lessons
 
-This site is a template that you can copy to get started publishing your own
-sites online using GitHub Pages.
+This is a series of basic music worksheets for kids.  Feel free to print them
+out.
 
-You can add static content here or compose blog posts in the `_posts/` folder.
+[Lesson 1.1](lesson1-1)
