@@ -15,30 +15,37 @@ __ __ C __ __ __ G
 </div>
 
 <style>
+.note-white, .note-black {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  position: relative;
+  top: 0;
+}
+
 .note-white {
   width: 1.2em;
   height: 4em;
   border: 1px solid black;
-  display: inline-block;
   border-radius: 0 0 0.2em 0.2em;
-  margin: 0em;
   margin-right: -1px;
-  padding: 0em;
   box-sizing: border-box;
+  line-height: 6.2em;
+  z-index: 0;
 }
 
 .note-black {
-  width: 0.8em;
-  height: 2.5em;
-  position: relative;
-  bottom: 1.5em;
+  font-size: 70%;
+  width: calc(0.8em / 0.7);
+  height: calc(2.5em / 0.7);
   background-color: black;
   display: inline-block;
-  border-radius: 0 0 0.1em 0.1em;
-  margin: 0em;
-  margin-right: -0.4em;
-  margin-left: -0.4em;
-  padding: 0em;
+  border-radius: 0 0 calc(0.1em / 0.7) calc(0.1em / 0.7);
+  margin-right: calc(-0.8em / 0.7 / 2);
+  margin-left: calc(-0.8em / 0.7 / 2);
+  color: white;
+  z-index: 10;
+  line-height: calc(3.5em/0.7);
 }
 </style>
 
@@ -46,7 +53,7 @@ __ __ C __ __ __ G
 ## Problem 2: Label the white notes
 
 <div style="font-size: 1.5rem;">
-<div class="note-white">
+<div class="note-white">C
 </div><div class="note-black">
 </div><div class="note-white">
 </div><div class="note-black">
@@ -58,7 +65,7 @@ __ __ C __ __ __ G
 </div><div class="note-white">
 </div><div class="note-black">
 </div><div class="note-white">
-</div><div class="note-white">
+</div><div class="note-white">C
 </div><div class="note-black">
 </div><div class="note-white">
 </div><div class="note-black">
@@ -70,6 +77,6 @@ __ __ C __ __ __ G
 </div><div class="note-white">
 </div><div class="note-black">
 </div><div class="note-white">
-</div><div class="note-white">
+</div><div class="note-white">C
 </div>
 </div>
