@@ -45,3 +45,16 @@
 .page {
   page-break-after: always;
 }
+
+.big-letters {
+   font-size: 1.5rem;
+   font-weight: bold;
+   word-spacing: 0.3em;
+   text-align: center;
+}
+
+@media print {
+  .site-header {
+    display: none;
+  }
+}
