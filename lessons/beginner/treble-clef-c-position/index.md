@@ -1,67 +1,36 @@
 ---
 layout: page
-title: The bass clef and C position
+title: The treble clef and C position
 ---
 
-This lesson is about how we write notes on a *staff*.  A staff has **five**
-lines, going across the page from left to right. Sometimes, we draw notes on the
-lines. Draw four circles on each of the lines of the staff:
-
-![](draw_circles-1.svg)
-
-We can also draw notes in the **four** spaces between the lines. Finish drawing
-this pattern of notes in the spaces:
-
-![](draw_circles2-1.svg)
-
-Now practice writing notes in all **nine** positions, like this. Be neat!
-
-![](draw_circles3-1.svg)
-
-To help us find the notes on the piano, we use *clefs*.  One of the clefs is
-called the *bass clef* (say it like BASE CLEF), and it looks like a squiggle
-with two dots:
+Another important clef is the *treble clef*:
 
 <span
-style="font-size: 300%; vertical-align: middle; font-family: serif;">𝄢</span>
+style="font-size: 300%; vertical-align: middle; font-family: serif;">𝄞</span>
 
-Practice drawing some bass clefs here.
+Practice drawing some treble clefs here.
 
-The bass clef is also called the "F clef" since it comes from a fancy letter F,
+The treble clef is also called the "G clef" since it comes from a fancy letter G,
 something like this:
 
 <span style="font-size: 300%; vertical-align: middle;
-font-family: serif;">ℱ</span>.
+font-family: serif;">𝒢</span>
 
-Can you draw that fancy F?
+Can you draw that fancy G?
 
-The two dots help you find the note **F** on the **line 4** of the staff. Copy
-the clef and the F notes three times:
+The treble clef loops around the note **G** on **line 2** of the staff. Copy
+the clef and the G notes three times:
 
-![](bass_clef_f_notes-1.svg)
+![](treble_clef_g_notes-1.svg)
 
-When you put five fingers on notes CDEFG, it's called "C position".
-Copy the C position notes two times.
+Here is how to write the C position notes, starting with G and going *down* to
+C. The C does not fit on the staff, so draw an *extra line* through it:
 
-<div class="keyboard keyboard-small">
-<div class="note-white">C</div>
-  <div class="note-black"></div>
-<div class="note-white">D</div>
-  <div class="note-black"></div>
-<div class="note-white">E</div>
-<div class="note-white">F</div>
-  <div class="note-black"></div>
-<div class="note-white">G</div>
-  <div class="note-black"></div>
-<div class="note-white"></div>
-  <div class="note-black"></div>
-<div class="note-white"></div>
-<div class="note-white"></div>
-</div>
+![](treble_clef_c_position-1.svg)
 
-![](bass_clef_c_position-1.svg)
+Practice copying the C position notes two times.
 
-Play these notes on the piano, first with your left hand, then with your right
-hand.  Try playing in every octave! Now it's time to play a song:
+Play the notes on the piano, first with your right hand, then with your left
+hand.  Try playing in every octave! Now here is a C position song:
 
 ![](bass_clef_ode_to_joy-1.svg)
