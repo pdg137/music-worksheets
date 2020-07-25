@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 1.1
+title: The white keys
 ---
 
 In this lesson we will learn the names of the **white** keys.

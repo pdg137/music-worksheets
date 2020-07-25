@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lesson 1.2
+title: The bass clef and C position
 ---
 
 This lesson is about how we write notes on a *staff*.  A staff has **five**
