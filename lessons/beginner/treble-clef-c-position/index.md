@@ -31,6 +31,10 @@ C. The C does not fit on the staff, so draw an *extra line* through it:
 Practice copying the C position notes two times.
 
 Play the notes on the piano, first with your right hand, then with your left
-hand.  Try playing in every octave! Now here is a C position song:
+hand.  Try playing in every octave, and sing the notes!
 
-![](bass_clef_ode_to_joy-1.svg)
+<p class="page"></p>
+
+Write all of the C position notes here, starting with G.  Then play and sing!
+
+![](practice-1.svg)
