@@ -12,3 +12,4 @@ GitHub](https://github.com/pdg137/music-worksheets).
 * [The bass clef and C position](lessons/beginner/bass-clef-c-position)
 * [The bass clef - C position practice](lessons/beginner/bass-clef-c-position-practice)
 * [The treble clef and C position](lessons/beginner/treble-clef-c-position)
+* [The grand staff](lessons/beginner/the-grand-staff)
