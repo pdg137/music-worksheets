@@ -25,14 +25,19 @@
   font-size: calc(1.5rem * 0.7);
   width: calc(0.8em / 0.7);
   height: calc(2.5em / 0.7);
-  background-color: black;
   display: inline-block;
+  border: calc(0.4em / 0.7) solid black;
+  box-sizing: border-box;
   border-radius: 0 0 calc(0.1em / 0.7) calc(0.1em / 0.7);
   margin-right: calc(-0.8em / 0.7 / 2);
   margin-left: calc(-0.8em / 0.7 / 2);
   color: white;
   z-index: 10;
-  line-height: calc(3.5em/0.7);
+  line-height: calc(3em/0.7);
+}
+
+.note-black::first-letter {
+  margin-left: calc(-0.4em / 0.7);
 }
 
 .keyboard {

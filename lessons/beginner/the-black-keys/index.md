@@ -75,14 +75,14 @@ Now go play all of the notes on the keyboard.  Sing when you play
 them:
 
 <p class="big-letters">
-A♯ B♯ D♯ E# F♯ G♯ A♯...
+A♯ C♯ D♯ F♯ G♯ A♯ C♯...
 </p>
 
 You can play a lot of songs just on the black notes.  Here is one:
 
 <p class="big-letters">
 A♯ G♯ A♯ C#... D♯ F♯ F♯ A♯...<br>
-A♯ A♯ G♯ A♯ F♯...<br>
+A♯ A♯ G♯ A♯ G♯ F♯...<br>
 G♯ G♯ F♯ G♯ F♯ D♯...<br>
 A♯ A♯ G♯ A♯ G♯ F♯...<br>
 G♯... G♯ A♯... G♯... F♯...<br>
