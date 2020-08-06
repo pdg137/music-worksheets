@@ -63,6 +63,12 @@
    text-align: center;
 }
 
+.unicode-notes {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.2em;
+}
+
 @media print {
   .site-header {
     display: none;

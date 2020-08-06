@@ -14,4 +14,5 @@ GitHub](https://github.com/pdg137/music-worksheets).
 * [The treble clef and C position](lessons/beginner/treble-clef-c-position)
 * [The grand staff](lessons/beginner/the-grand-staff)
 * [The black keys](lessons/beginner/the-black-keys)
+* [Stem up or stem down?](lessons/beginner/stems)
 * [Note values](lessons/beginner/note-values)
